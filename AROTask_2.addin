@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\AROTask_2.dll"</Assembly>
+		<AddInId>B32B3EFC-5FFD-46F9-A875-9DF39C1605E2</AddInId>
+		<FullClassName>ARO_Task2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Площадь с коэффициентом</Text>
+	</AddIn>
+</RevitAddIns>
